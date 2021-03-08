@@ -1,0 +1,1 @@
+código maneiro do javascript
